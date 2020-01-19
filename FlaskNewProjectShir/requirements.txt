@@ -1,0 +1,6 @@
+Flask
+Pandas
+Mathlotib
+flask-bootstrap
+flask-moment
+flask-wtf
